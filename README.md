@@ -7,7 +7,7 @@
 
 License: [MIT License](https://github.com/AlessandroConti11/Code_Kata_Battle/blob/main/LICENSE)
 
-Tags: `#CKB`, `#code_kata_battle`, `#java`, `#polimi`, `#software_engineering`, `#web_application`.
+Tags: `#CKB`, `#code_kata_battle`, `#computer_engineering`, `#java`, `#polimi`, `#software_engineering`, `#web_application`.
 
 
 ## University
