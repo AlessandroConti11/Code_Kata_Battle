@@ -14,7 +14,7 @@ Tags: `#CKB`, `#code_kata_battle`, `#computer_engineering`, `#java`, `#polimi`, 
 
 Politecnico di Milano.
 
-Academic Year: 2023/2023.
+Academic Year: 2023/2024.
 
 054443 - SOFTWARE ENGINEERING 2 - professor Di Nitto Elisabetta.
 
